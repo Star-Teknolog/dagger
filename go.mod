@@ -45,7 +45,7 @@ require (
 	// - TBD
 	// - https://github.com/dagger/dagger/pull/2446#issuecomment-1126377411
 	go.opentelemetry.io/otel v1.9.0
-	go.opentelemetry.io/otel/exporters/jaeger v1.4.1
+	go.opentelemetry.io/otel/exporters/jaeger v1.9.0
 	go.opentelemetry.io/otel/sdk v1.9.0
 	go.opentelemetry.io/otel/trace v1.9.0
 	//!!!! the version of go.opentelemetry.io/otel MUST be kept in sync with BuildKit's version !!!!
