@@ -8,8 +8,8 @@ require (
 	github.com/Microsoft/go-winio v0.5.2
 	github.com/charmbracelet/glamour v0.5.0
 	github.com/containerd/console v1.0.3
-	github.com/containerd/containerd v1.6.6
-	github.com/docker/buildx v0.9.1
+	github.com/containerd/containerd v1.6.8
+	github.com/docker/buildx v0.9.0-rc1
 	github.com/docker/distribution v2.8.1+incompatible
 	github.com/go-git/go-git/v5 v5.4.2
 	github.com/gofrs/flock v0.8.1
