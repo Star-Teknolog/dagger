@@ -8,7 +8,7 @@ require (
 	github.com/Microsoft/go-winio v0.5.2
 	github.com/charmbracelet/glamour v0.5.0
 	github.com/containerd/console v1.0.3
-	github.com/containerd/containerd v1.6.8
+	github.com/containerd/containerd v1.6.18
 	github.com/docker/buildx v0.9.0-rc1
 	github.com/docker/distribution v2.8.1+incompatible
 	github.com/go-git/go-git/v5 v5.4.2
@@ -146,7 +146,7 @@ require (
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.4.1 // indirect
 	go.opentelemetry.io/proto/otlp v0.12.0 // indirect
 	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa // indirect
-	golang.org/x/net v0.0.0-20220708220712-1185a9018129 // indirect
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b // indirect
 	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f // indirect
