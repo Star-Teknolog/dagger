@@ -10,7 +10,7 @@ require (
 	github.com/containerd/console v1.0.3
 	github.com/containerd/containerd v1.7.0
 	github.com/docker/buildx v0.9.0-rc1
-	github.com/docker/distribution v2.8.1+incompatible
+	github.com/docker/distribution v2.8.2+incompatible
 	github.com/go-git/go-git/v5 v5.4.2
 	github.com/gofrs/flock v0.8.1
 	github.com/google/uuid v1.3.0
